@@ -1,0 +1,64 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\Debug\Lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3.map</FILE>
+  <FILE>Lab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <lookup_table><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>27</LINE></lookup_table>
+  <display><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>373</LINE></display>
+  <main_loop><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>94</LINE></main_loop>
+  <state_detected><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>116</LINE></state_detected>
+  <check_button><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>193</LINE></check_button>
+  <not_cw_from_00><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>128</LINE></not_cw_from_00>
+  <update_state><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>189</LINE></update_state>
+  <check_ccw><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>155</LINE></check_ccw>
+  <not_cw_from_01><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>135</LINE></not_cw_from_01>
+  <not_cw_from_11><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>142</LINE></not_cw_from_11>
+  <stay_at_F><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>231</LINE></stay_at_F>
+  <update_display><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>348</LINE></update_display>
+  <not_ccw_from_00><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>163</LINE></not_ccw_from_00>
+  <not_ccw_from_10><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>170</LINE></not_ccw_from_10>
+  <not_ccw_from_11><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>177</LINE></not_ccw_from_11>
+  <stay_at_0><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>239</LINE></stay_at_0>
+  <button_pressed><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>205</LINE></button_pressed>
+  <combinationCheck><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>247</LINE></combinationCheck>
+  <delay_10ms><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>428</LINE></delay_10ms>
+  <do_something_loop><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>217</LINE></do_something_loop>
+  <checkInput><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>253</LINE></checkInput>
+  <reset_display><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>222</LINE></reset_display>
+  <delay><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>418</LINE></delay>
+  <unlockLock><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>309</LINE></unlockLock>
+  <lock><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>327</LINE></lock>
+  <checkInput0><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>269</LINE></checkInput0>
+  <checkInput1><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>274</LINE></checkInput1>
+  <checkInput2><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>279</LINE></checkInput2>
+  <checkInput3><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>284</LINE></checkInput3>
+  <checkInput4><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>289</LINE></checkInput4>
+  <inc_index><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>296</LINE></inc_index>
+  <loop><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>381</LINE></loop>
+  <set_ser_in_1><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>387</LINE></set_ser_in_1>
+  <end><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>390</LINE></end>
+  <delay_1s><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>419</LINE></delay_1s>
+  <delay_1s_cont><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>421</LINE></delay_1s_cont>
+  <delay_cont><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>434</LINE></delay_cont>
+  <wait><FILE>C:\Users\Seth Bolen\Documents\Atmel Studio\7.0\Lab3\Lab3\main.asm</FILE><LINE>446</LINE></wait>
+ </LABELS>
+</ASSEMBLER_INFO>
